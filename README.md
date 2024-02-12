@@ -5,5 +5,6 @@
 
 
 ## Azure Data Factory load 
-![image](https://github.com/madanjatin18/Tokyo-Olympic-Data-Azure/assets/114446505/2ca5c3a6-b2b1-49b3-afc9-b804801ca4c4)
+![image](https://github.com/madanjatin18/Tokyo-Olympic-Data-Azure/assets/114446505/eb40308d-bf66-4b6a-813c-34cd284ce5ba)
+
 
